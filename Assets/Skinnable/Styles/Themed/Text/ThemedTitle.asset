@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b57573cf7b1b4d75980121e133c2114, type: 3}
+  m_Name: ThemedTitle
+  m_EditorClassIdentifier: 
+  DisplayName: Themed Title
+  extraProp:
+  - fieldName: fontSize
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131846795933564490
+    selectedDerivedValue: 1
+    derivedValue: {fileID: 11400000, guid: a23c1c33a23774ed5b104c453c0beb52, type: 2}
+  - fieldName: fontColor
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131846795933564490
+    selectedDerivedValue: 1
+    derivedValue: {fileID: 11400000, guid: a780d8872bd1b494e96839696f562799, type: 2}
+  - fieldName: font
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131846795933564490
+    selectedDerivedValue: 2
+    derivedValue: {fileID: 11400000, guid: cb0d405a638894bb48e8c43dfde40154, type: 2}
+  - fieldName: textCharacteristics
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 131846795933564490
+    selectedDerivedValue: 1
+    derivedValue: {fileID: 0}
+  fontSize: 20
+  fontColor: {r: 0, g: 1, b: 0.11850667, a: 1}
+  font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  textCharacteristics:
+    size: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    font: {fileID: 0}

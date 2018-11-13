@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0ed131c2e93b41ea8e76e478596fbf2, type: 3}
+  m_Name: Dotsprite
+  m_EditorClassIdentifier: 
+  DisplayName: Dot sprite
+  extraProp:
+  - fieldName: sprite
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}

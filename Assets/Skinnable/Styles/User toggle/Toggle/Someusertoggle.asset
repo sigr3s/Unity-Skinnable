@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b316594f8a134c388d64d4050931ec4, type: 3}
+  m_Name: Someusertoggle
+  m_EditorClassIdentifier: 
+  DisplayName: Some user toggle
+  extraProp:
+  - fieldName: normalColor
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 131847627407302510
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 11400000, guid: 67abbb9f8f85843efbb26d54baa752f7, type: 2}
+  - fieldName: highlightedColor
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131847634559354120
+    selectedDerivedValue: 1
+    derivedValue: {fileID: 11400000, guid: a780d8872bd1b494e96839696f562799, type: 2}
+  - fieldName: pressedColor
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  - fieldName: disabledColor
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  - fieldName: buttonSprite
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  normalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
+  highlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  pressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
+  disabledColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080e5db1b0fdf48249622bf8d0649dc3, type: 3}
+  m_Name: GenericButton
+  m_EditorClassIdentifier: 
+  DisplayName: Generic Button
+  extraProp:
+  - fieldName: highlightedSprite
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  - fieldName: pressedSprite
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  - fieldName: disabledSprite
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  highlightedSprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  pressedSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  disabledSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f1ce5f6a8aa415f9263c14dc944d47, type: 3}
+  m_Name: Spritewithapp2color
+  m_EditorClassIdentifier: 
+  DisplayName: Sprite with app2 color
+  extraProp:
+  - fieldName: color
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131846162880186720
+    selectedDerivedValue: 1
+    derivedValue: {fileID: 11400000, guid: a780d8872bd1b494e96839696f562799, type: 2}
+  - fieldName: defaultSprite
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  color: {r: 0, g: 1, b: 0.11850667, a: 1}
+  defaultSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}

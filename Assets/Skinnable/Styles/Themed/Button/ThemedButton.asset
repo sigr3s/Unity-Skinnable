@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fe2c5c95e93b4f5fa9c2dd2705d5808, type: 3}
+  m_Name: ThemedButton
+  m_EditorClassIdentifier: 
+  DisplayName: Themed Button
+  extraProp:
+  - fieldName: normalColor
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131847112706954630
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 11400000, guid: 67abbb9f8f85843efbb26d54baa752f7, type: 2}
+  - fieldName: highlightedColor
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131847112706954630
+    selectedDerivedValue: 1
+    derivedValue: {fileID: 11400000, guid: a780d8872bd1b494e96839696f562799, type: 2}
+  - fieldName: pressedColor
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131847112706954630
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 11400000, guid: 67abbb9f8f85843efbb26d54baa752f7, type: 2}
+  - fieldName: disabledColor
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 0
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 0}
+  - fieldName: buttonSprite
+    shouldApply: 1
+    usesDerivedValue: 0
+    lastUpdate: 131847586876189770
+    selectedDerivedValue: 1
+    derivedValue: {fileID: 11400000, guid: 8d68ee72179c24acf9fce845065a6e7a, type: 2}
+  - fieldName: buttonColorBlock
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131847586876189770
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 11400000, guid: af7c251d4903848f69f7cd8f63d36353, type: 2}
+  - fieldName: spriteState
+    shouldApply: 1
+    usesDerivedValue: 1
+    lastUpdate: 131847586876189770
+    selectedDerivedValue: 0
+    derivedValue: {fileID: 11400000, guid: 617a20c657a364a9f811109edabeb40a, type: 2}
+  buttonColorBlock:
+    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
+    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  spriteState:
+    m_HighlightedSprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+    m_PressedSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    m_DisabledSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  buttonSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
