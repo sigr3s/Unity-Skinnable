@@ -36,11 +36,7 @@ MonoBehaviour:
     usesDerivedValue: 0
     lastUpdate: 131846793939779670
     selectedDerivedValue: 0
-    derivedValue: {fileID: 11400000, guid: c6577cb653f9d4dcc924a239b734e736, type: 2}
-  fontSize: 20
+    derivedValue: {fileID: 0}
+  fontSize: 34
   fontColor: {r: 0.1509434, g: 0, b: 0, a: 1}
   font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-  textCharacteristics:
-    size: 24
-    color: {r: 0, g: 0.6533134, b: 1, a: 1}
-    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}

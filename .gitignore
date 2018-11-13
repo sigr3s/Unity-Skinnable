@@ -40,3 +40,7 @@ sysinfo.txt
 *.unitypackage
 *.dll
 *.dll.meta
+
+# Unity recorder
+
+Assets/Unity Recorder*

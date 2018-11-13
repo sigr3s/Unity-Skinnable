@@ -647,7 +647,7 @@ PlayerSettings:
   cloudServicesEnabled:
     UNet: 1
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: e3947d73-c55e-450b-bbc3-116fb03bec7f
   projectName: SkinProposal
   organizationId: softw33

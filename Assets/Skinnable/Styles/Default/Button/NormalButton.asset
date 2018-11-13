@@ -62,7 +62,7 @@ MonoBehaviour:
     selectedDerivedValue: 0
     derivedValue: {fileID: 0}
   buttonColorBlock:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -72,4 +72,4 @@ MonoBehaviour:
     m_HighlightedSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
     m_PressedSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
     m_DisabledSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  buttonSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  buttonSprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}

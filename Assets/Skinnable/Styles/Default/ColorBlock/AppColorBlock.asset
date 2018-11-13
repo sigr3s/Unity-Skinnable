@@ -15,20 +15,20 @@ MonoBehaviour:
   extraProp:
   - fieldName: normalColor
     shouldApply: 1
-    usesDerivedValue: 1
-    lastUpdate: 131847585464513010
-    selectedDerivedValue: 0
-    derivedValue: {fileID: 11400000, guid: 67abbb9f8f85843efbb26d54baa752f7, type: 2}
+    usesDerivedValue: 0
+    lastUpdate: 131865809963323550
+    selectedDerivedValue: 1
+    derivedValue: {fileID: 11400000, guid: a780d8872bd1b494e96839696f562799, type: 2}
   - fieldName: highlightedColor
     shouldApply: 1
     usesDerivedValue: 1
-    lastUpdate: 131847585464513010
+    lastUpdate: 131865809963323550
     selectedDerivedValue: 1
     derivedValue: {fileID: 11400000, guid: a780d8872bd1b494e96839696f562799, type: 2}
   - fieldName: pressedColor
     shouldApply: 1
     usesDerivedValue: 1
-    lastUpdate: 131847585464513010
+    lastUpdate: 131865809963323550
     selectedDerivedValue: 1
     derivedValue: {fileID: 11400000, guid: a780d8872bd1b494e96839696f562799, type: 2}
   - fieldName: disabledColor
@@ -49,9 +49,9 @@ MonoBehaviour:
     lastUpdate: 0
     selectedDerivedValue: 0
     derivedValue: {fileID: 0}
-  normalColor: {r: 0.9433962, g: 0.5372549, b: 0.8285877, a: 1}
-  highlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-  pressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-  disabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+  normalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+  highlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+  pressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+  disabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
   colorMultiplier: 1
   fadeDuration: 0.1

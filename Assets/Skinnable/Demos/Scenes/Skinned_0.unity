@@ -160,7 +160,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 899876}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -322,12 +322,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 10345063}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
-  lastUpdate: 131846165015870550
-  selectedOption: 2
+  CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
+  lastUpdate: 131865827453721800
+  selectedOption: 1
   StyleTypeName: Text
 --- !u!114 &10345066
 MonoBehaviour:
@@ -341,7 +341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -482,7 +482,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 11284389}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -510,7 +510,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -807,7 +807,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 54014760}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -827,7 +827,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1121,7 +1121,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 100747534}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -1147,7 +1147,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -1188,7 +1188,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1249,7 +1249,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 114966221}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -1275,7 +1275,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -1316,7 +1316,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1375,7 +1375,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 119456464}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -1394,7 +1394,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1754,7 +1754,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 143167723}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -1774,7 +1774,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1841,7 +1841,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 149877785}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -1860,7 +1860,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -2082,7 +2082,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 161807068}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -2110,7 +2110,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -2174,7 +2174,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 162347482}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -2200,8 +2200,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -2270,7 +2270,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 172158982}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -2289,7 +2289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -2508,7 +2508,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 211782156}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -2534,10 +2534,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -2575,7 +2575,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2636,12 +2636,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 233711192}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
-  lastUpdate: 131846195541000750
-  selectedOption: 1
+  lastUpdate: 131865781298957250
+  selectedOption: 2
   StyleTypeName: Button
 --- !u!114 &233711195
 MonoBehaviour:
@@ -2662,10 +2662,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -2703,7 +2703,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2842,7 +2842,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 261377562}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -2862,7 +2862,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -2929,7 +2929,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 271301643}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -2957,7 +2957,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -3021,7 +3021,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 276587105}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -3047,8 +3047,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -3481,7 +3481,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 303622193}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -3507,8 +3507,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -3652,7 +3652,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 322629740}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -3680,7 +3680,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -3743,7 +3743,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 341082820}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -3771,7 +3771,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -3911,7 +3911,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 361079972}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -3937,7 +3937,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -3978,7 +3978,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4039,7 +4039,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 373592639}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -4065,10 +4065,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -4106,7 +4106,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4315,7 +4315,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 391183672}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -4343,7 +4343,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -4409,7 +4409,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 399289795}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -4499,7 +4499,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 399849145}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -4519,7 +4519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -4586,7 +4586,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 400582590}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -4614,7 +4614,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -4680,11 +4680,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 407871759}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
-  lastUpdate: 131846165015870550
+  lastUpdate: 131865825502703780
   selectedOption: 1
   StyleTypeName: Image
 --- !u!114 &407871762
@@ -4700,7 +4700,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -4839,7 +4839,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 429927156}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -4995,7 +4995,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 440783769}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -5014,7 +5014,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -5155,7 +5155,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 452234812}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -5183,7 +5183,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -5322,7 +5322,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 472595204}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -5348,8 +5348,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -5420,7 +5420,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 498259134}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -5446,10 +5446,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -5487,7 +5487,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5549,7 +5549,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 502704750}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -5569,7 +5569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -5637,7 +5637,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 518587161}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -5663,8 +5663,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -5804,7 +5804,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 536914818}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -5830,10 +5830,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -5871,7 +5871,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6081,7 +6081,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 565712436}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -6107,8 +6107,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -6252,7 +6252,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 605284792}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -6271,7 +6271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -6346,7 +6346,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 605921640}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -6366,7 +6366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -6435,7 +6435,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 609708771}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -6461,10 +6461,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -6502,7 +6502,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6562,7 +6562,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 617127079}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -6588,8 +6588,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -6659,7 +6659,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 628505003}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -6685,8 +6685,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -6977,7 +6977,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 657471495}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -7003,10 +7003,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -7044,7 +7044,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7106,7 +7106,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 657928546}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -7126,7 +7126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -7268,7 +7268,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 676860359}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -7296,7 +7296,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -7500,7 +7500,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 704521949}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -7663,7 +7663,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 705149012}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -7689,8 +7689,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -7900,7 +7900,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 719133698}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -7926,8 +7926,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -7996,11 +7996,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 719359136}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
-  lastUpdate: 131846165015870550
+  lastUpdate: 131865827453721800
   selectedOption: 0
   StyleTypeName: Text
 --- !u!114 &719359139
@@ -8024,7 +8024,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -8162,7 +8162,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 734973667}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -8181,7 +8181,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -8255,7 +8255,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 743236402}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -8281,10 +8281,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -8322,7 +8322,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8381,7 +8381,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 755046745}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -8400,7 +8400,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -8549,7 +8549,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 759185250}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -8575,7 +8575,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -8616,7 +8616,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8747,11 +8747,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 765801601}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
-  lastUpdate: 131846165015870550
+  lastUpdate: 131865825502703780
   selectedOption: 2
   StyleTypeName: Image
 --- !u!114 &765801604
@@ -8767,7 +8767,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -8836,7 +8836,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 778771769}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -8862,7 +8862,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -8903,7 +8903,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8963,7 +8963,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 785624290}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -8989,8 +8989,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -9059,12 +9059,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 808554462}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
+  CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
   lastUpdate: 131846165015870550
-  selectedOption: 1
+  selectedOption: 0
   StyleTypeName: Text
 --- !u!114 &808554465
 MonoBehaviour:
@@ -9078,7 +9078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.1509434, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -9087,7 +9087,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -9150,7 +9150,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 811470399}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -9169,7 +9169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -9318,11 +9318,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 817890322}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
-  lastUpdate: 131846195541000750
+  lastUpdate: 131865825502703780
   selectedOption: 0
   StyleTypeName: Button
 --- !u!114 &817890325
@@ -9344,7 +9344,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -9385,7 +9385,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9520,11 +9520,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 820737511}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
-  lastUpdate: 131846195541000750
+  lastUpdate: 131865781298957250
   selectedOption: 0
   StyleTypeName: Toggle
 --- !u!114 &820737514
@@ -9546,8 +9546,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -9616,7 +9616,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 832907124}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -9635,7 +9635,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -9709,7 +9709,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 843907747}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -9735,10 +9735,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -9776,7 +9776,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9973,7 +9973,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 874098140}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -10001,7 +10001,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -10141,7 +10141,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 908025206}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -10167,10 +10167,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -10208,7 +10208,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10268,7 +10268,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 921985528}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -10294,8 +10294,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -10367,7 +10367,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 925637702}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -10387,7 +10387,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -10529,7 +10529,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 929838171}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
@@ -10557,7 +10557,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -10846,7 +10846,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 956153526}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -10872,8 +10872,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -10943,7 +10943,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 962836355}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -10969,8 +10969,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -11042,7 +11042,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 969470786}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -11062,7 +11062,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -11132,7 +11132,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 971050298}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -11152,7 +11152,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -11222,7 +11222,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 977221800}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -11242,7 +11242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -11377,7 +11377,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 997571624}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -11403,7 +11403,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -11444,7 +11444,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11731,7 +11731,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1051531791}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -11891,7 +11891,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1062755319}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -11981,7 +11981,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1093681107}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -12001,7 +12001,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -12068,12 +12068,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1095290213}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
+  CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
   lastUpdate: 131846165015870550
-  selectedOption: 2
+  selectedOption: 0
   StyleTypeName: Text
 --- !u!114 &1095290216
 MonoBehaviour:
@@ -12087,7 +12087,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.1509434, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -12096,7 +12096,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -12162,7 +12162,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1095956921}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -12182,7 +12182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -12251,7 +12251,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1114850420}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -12277,7 +12277,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -12318,7 +12318,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12661,7 +12661,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1141346413}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -12687,7 +12687,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -12728,7 +12728,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13372,7 +13372,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1218275847}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -13398,7 +13398,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -13439,7 +13439,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13498,7 +13498,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1229666876}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -13517,7 +13517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -13741,7 +13741,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1238851845}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -13767,7 +13767,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -13808,7 +13808,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14079,7 +14079,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1288596486}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -14099,7 +14099,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -14310,7 +14310,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1302986847}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -14329,7 +14329,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -14403,7 +14403,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1304720730}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -14429,7 +14429,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -14470,7 +14470,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14531,11 +14531,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1305233171}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
-  lastUpdate: 131846195541000750
+  lastUpdate: 131865776873540130
   selectedOption: 0
   StyleTypeName: Button
 --- !u!114 &1305233174
@@ -14557,7 +14557,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -14598,7 +14598,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14659,11 +14659,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1317924002}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
-  lastUpdate: 131846195541000750
+  lastUpdate: 131865825502703780
   selectedOption: 0
   StyleTypeName: Button
 --- !u!114 &1317924005
@@ -14685,7 +14685,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -14726,7 +14726,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14786,7 +14786,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1329107367}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -14812,8 +14812,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -14884,7 +14884,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1331371208}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -14910,10 +14910,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -14951,7 +14951,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15162,7 +15162,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1375256356}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -15188,10 +15188,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -15229,7 +15229,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15358,7 +15358,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1384935611}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -15384,8 +15384,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -15454,7 +15454,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1385119384}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -15473,7 +15473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -15547,7 +15547,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1389300850}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -15573,10 +15573,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -15614,7 +15614,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15675,7 +15675,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1392830541}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -15701,10 +15701,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -15742,7 +15742,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15801,7 +15801,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1393367584}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -15820,7 +15820,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -15969,7 +15969,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1404580698}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -15995,10 +15995,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -16036,7 +16036,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16097,7 +16097,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1407198572}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -16123,10 +16123,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -16164,7 +16164,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16505,11 +16505,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1475233304}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
-  lastUpdate: 131846195541000750
+  lastUpdate: 131865781298957250
   selectedOption: 0
   StyleTypeName: Button
 --- !u!114 &1475233307
@@ -16531,7 +16531,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -16572,7 +16572,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16712,8 +16712,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -16746,11 +16746,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1492994641}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
-  lastUpdate: 131846195541000750
+  lastUpdate: 131865781298957250
   selectedOption: 0
   StyleTypeName: Toggle
 --- !u!1 &1496672154
@@ -16869,7 +16869,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1508363840}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -16959,7 +16959,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1511347484}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -16979,7 +16979,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -17329,7 +17329,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1556855584}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -17355,7 +17355,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -17396,7 +17396,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17524,7 +17524,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1565018937}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -17543,7 +17543,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -17615,11 +17615,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1570848477}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
-  lastUpdate: 131846165015870550
+  lastUpdate: 131865827453721800
   selectedOption: 0
   StyleTypeName: Text
 --- !u!114 &1570848480
@@ -17643,7 +17643,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -17779,7 +17779,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1576568977}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -17868,7 +17868,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1592184907}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -17894,7 +17894,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 2
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -17935,7 +17935,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18066,7 +18066,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1595633744}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -18092,7 +18092,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -18133,7 +18133,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18417,7 +18417,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1629094918}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -18436,7 +18436,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -18586,7 +18586,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1636245275}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -18813,7 +18813,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1650396896}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -18839,8 +18839,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -18911,7 +18911,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1654167543}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -18937,7 +18937,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -18978,7 +18978,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19260,7 +19260,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1680941517}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -19280,7 +19280,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -19350,11 +19350,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1703197700}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
-  lastUpdate: 131846165015870550
+  lastUpdate: 131865825502703780
   selectedOption: 0
   StyleTypeName: Image
 --- !u!114 &1703197703
@@ -19438,7 +19438,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1704649537}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -19464,8 +19464,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -19610,7 +19610,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1714298258}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -19636,8 +19636,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -19784,7 +19784,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1725771721}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -19804,7 +19804,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -20094,7 +20094,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1740201200}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -20114,7 +20114,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -20256,7 +20256,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1764070559}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -20275,7 +20275,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -20347,7 +20347,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1765703350}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -20366,7 +20366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -20439,7 +20439,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1772612240}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -20465,8 +20465,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -20536,7 +20536,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1789881656}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -20562,8 +20562,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -20635,7 +20635,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1797122533}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -20655,7 +20655,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -20722,7 +20722,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1801842061}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -20741,7 +20741,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -20813,7 +20813,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1814375728}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -20832,7 +20832,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -20906,7 +20906,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1821629807}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -20932,10 +20932,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -20973,7 +20973,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21103,7 +21103,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1838396792}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -21129,8 +21129,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -21272,7 +21272,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1862352938}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -21292,7 +21292,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -21435,7 +21435,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1867342312}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -21461,8 +21461,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -21533,7 +21533,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1878025277}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -21559,10 +21559,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -21600,7 +21600,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21737,7 +21737,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1881461486}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -21757,7 +21757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -21827,7 +21827,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1883174068}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 26294de1b37e1413aa28c860c3e30b8d, type: 2}
@@ -21847,7 +21847,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -21917,7 +21917,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1897048274}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f48cdffaf091b434390f70aca496d19f, type: 2}
@@ -21937,7 +21937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -22079,7 +22079,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1939977767}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -22098,7 +22098,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -22172,7 +22172,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1982637233}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: f5463ff9e495c433d8862d9a4b500178, type: 2}
@@ -22198,7 +22198,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 1, b: 0.8983319, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
     m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
@@ -22239,7 +22239,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -22298,7 +22298,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1985000416}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 9b7826f40854e417f927a950ca082982, type: 2}
@@ -22317,7 +22317,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+  m_Color: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -22461,7 +22461,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2000509237}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -22487,10 +22487,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -22528,7 +22528,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -22946,7 +22946,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2044427472}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
@@ -22965,7 +22965,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.55716234, g: 0.8862745, b: 0.49803922, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -23040,7 +23040,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2052626646}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -23512,11 +23512,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2073147340}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
-  lastUpdate: 131846165015870550
+  lastUpdate: 131865825502703780
   selectedOption: 0
   StyleTypeName: Image
 --- !u!114 &2073147343
@@ -23602,7 +23602,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2076707525}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -23691,7 +23691,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2083586380}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: acb884ce060284202b93ed8b5224c21b, type: 2}
@@ -23717,10 +23717,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_PressedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 0.5990566, b: 0.7995283, a: 1}
+    m_NormalColor: {r: 1, g: 0.7882353, b: 0.88630635, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_PressedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
+    m_DisabledColor: {r: 0.6, g: 0.86078686, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -23758,7 +23758,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -23888,7 +23888,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2099660147}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -23914,8 +23914,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -24137,7 +24137,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2106888942}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: b88f4b38f323d479b841ea00f6950367, type: 2}
@@ -24388,7 +24388,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2114032668}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentStyle: {fileID: 11400000, guid: edbc7536aef464bffb7052017c3c2e2a, type: 2}
@@ -24414,8 +24414,8 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.94509804, g: 0.5372549, b: 0.6756286, a: 1}
-    m_HighlightedColor: {r: 0.62352943, g: 0.21568628, b: 1, a: 1}
+    m_NormalColor: {r: 0.764151, g: 0.48660558, b: 0.58001024, a: 1}
+    m_HighlightedColor: {r: 0.8423186, g: 1, b: 0.7882353, a: 1}
     m_PressedColor: {r: 0, g: 0.3917141, b: 1, a: 1}
     m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
@@ -24484,12 +24484,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2130436995}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1233996420, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
+  m_Script: {fileID: -67328321, guid: 206d9d95df00049bbbf6925a21823049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CurrentStyle: {fileID: 11400000, guid: 791730da499374ee1aae1111aaa14a85, type: 2}
-  lastUpdate: 131846165015870550
-  selectedOption: 1
+  CurrentStyle: {fileID: 11400000, guid: 968c8ff2f5d0748c4b067e06213039f5, type: 2}
+  lastUpdate: 131865827453721800
+  selectedOption: 0
   StyleTypeName: Text
 --- !u!114 &2130436998
 MonoBehaviour:
@@ -24503,7 +24503,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8584906, g: 0, b: 0.28891498, a: 1}
+  m_Color: {r: 0.1509434, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -24512,7 +24512,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
