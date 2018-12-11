@@ -14,10 +14,16 @@ namespace Skinnable{
         {
             Button button = targetObject as Button;
             if (button != null) {
-                if(ShouldApply(nameof(buttonColorBlock))) button.colors = buttonColorBlock;
-                if(ShouldApply(nameof(spriteState))) button.spriteState = spriteState;
 
-                if(ShouldApply(nameof(buttonSprite))){
+                if(ShouldApply(this.nameof(b => b.buttonColorBlock)))
+                {
+                    button.colors = buttonColorBlock;
+                }
+                if(ShouldApply(this.nameof(b => b.spriteState))){
+                    button.spriteState = spriteState;
+                }
+
+                if(ShouldApply(this.nameof(b => b.buttonSprite))){
                     Image image = button.targetGraphic as Image;
                     if(image != null) image.sprite = buttonSprite;
                 }

@@ -12,9 +12,20 @@ namespace Skinnable {
         public override void ApplyStyle (ref System.Object targetObject) {
             Text text = targetObject as Text;
             if (text != null) {
-                if(ShouldApply(nameof(font)) )  text.font = font;
-                if(ShouldApply(nameof(fontColor)) )  text.color = fontColor;
-                if(ShouldApply(nameof(fontSize)) )  text.fontSize = fontSize;
+                if(ShouldApply(this.nameof(b => b.font)) )
+                {
+                    text.font = font;
+                }
+
+                if(ShouldApply(this.nameof(b => b.fontColor)) )
+                {
+                    text.color = fontColor;
+                }
+
+                if(ShouldApply(this.nameof(b => b.fontSize)) )
+                {
+                    text.fontSize = fontSize;
+                }
             }
         }
     }

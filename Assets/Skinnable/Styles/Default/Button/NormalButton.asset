@@ -62,8 +62,8 @@ MonoBehaviour:
     selectedDerivedValue: 0
     derivedValue: {fileID: 0}
   buttonColorBlock:
-    m_NormalColor: {r: 0, g: 1, b: 0.9600687, a: 1}
-    m_HighlightedColor: {r: 1, g: 0, b: 0, a: 1}
+    m_NormalColor: {r: 0, g: 1, b: 0.15097451, a: 1}
+    m_HighlightedColor: {r: 0, g: 1, b: 0.75114346, a: 1}
     m_PressedColor: {r: 0.36040404, g: 0.5528462, b: 0.8396226, a: 1}
     m_DisabledColor: {r: 0.3152756, g: 0.8207547, b: 0.127759, a: 1}
     m_ColorMultiplier: 1

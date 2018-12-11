@@ -10,8 +10,15 @@ namespace Skinnable {
         public override void ApplyStyle (ref System.Object targetObject) {
             Image img = targetObject as Image;
             if (img != null) {
-                if(ShouldApply(nameof(color)) ) img.color = color;
-                if(ShouldApply(nameof(defaultSprite)) ) img.sprite = defaultSprite;
+                if(ShouldApply(this.nameof(b => b.color)) )
+                {
+                    img.color = color;
+                }
+
+                if(ShouldApply(this.nameof(b => b.defaultSprite)) )
+                {
+                    img.sprite = defaultSprite;
+                }
             }
         }
     }

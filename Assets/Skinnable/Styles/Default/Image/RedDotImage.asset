@@ -15,15 +15,15 @@ MonoBehaviour:
   extraProp:
   - fieldName: color
     shouldApply: 1
-    usesDerivedValue: 0
-    lastUpdate: 0
+    usesDerivedValue: 1
+    lastUpdate: 131890264424312520
     selectedDerivedValue: 0
-    derivedValue: {fileID: 0}
+    derivedValue: {fileID: 11400000, guid: 67abbb9f8f85843efbb26d54baa752f7, type: 2}
   - fieldName: defaultSprite
     shouldApply: 1
     usesDerivedValue: 0
     lastUpdate: 0
     selectedDerivedValue: 0
     derivedValue: {fileID: 0}
-  color: {r: 1, g: 0, b: 0, a: 1}
+  color: {r: 0.9529412, g: 0.4078431, b: 0.44293168, a: 1}
   defaultSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
